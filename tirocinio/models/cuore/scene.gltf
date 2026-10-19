@@ -152,13 +152,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Heart_Tex_baseColor.png"
+      "uri": "Heart_Tex_baseColor.png"
     },
     {
-      "uri": "textures/Heart_Tex_metallicRoughness.png"
+      "uri": "Heart_Tex_metallicRoughness.png"
     },
     {
-      "uri": "textures/Heart_Tex_normal.png"
+      "uri": "Heart_Tex_normal.png"
     }
   ],
   "materials": [
