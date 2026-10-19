@@ -1,0 +1,11 @@
+Model Information:
+* title:	Marble
+* source:	https://sketchfab.com/3d-models/marble-9d1151a63aa94b90a8f2552c2be5b1f8
+* author:	KageG (https://sketchfab.com/KageG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Marble" (https://sketchfab.com/3d-models/marble-9d1151a63aa94b90a8f2552c2be5b1f8) by KageG (https://sketchfab.com/KageG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
