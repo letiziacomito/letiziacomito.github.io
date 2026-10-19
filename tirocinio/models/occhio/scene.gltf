@@ -211,16 +211,16 @@
   ],
   "images": [
     {
-      "uri": "textures/PBR.1_baseColor.png"
+      "uri": "PBR.1_baseColor.png"
     },
     {
-      "uri": "textures/PBR.2_baseColor.png"
+      "uri": "PBR.2_baseColor.png"
     },
     {
-      "uri": "textures/PBR.2_normal.png"
+      "uri": "PBR.2_normal.png"
     },
     {
-      "uri": "textures/PBR.2_transmission.png"
+      "uri": "PBR.2_transmission.png"
     }
   ],
   "materials": [
